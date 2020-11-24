@@ -1,0 +1,15 @@
+{
+  "name": "learning2installpackage",
+  "version": "1.0.0",
+  "description": "Learning to install package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satya Boddeti",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-slick": "^0.27.12"
+  }
+}
